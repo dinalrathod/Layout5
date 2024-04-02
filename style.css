@@ -1,0 +1,382 @@
+.bg
+{
+    background-image: url("final.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.btn{
+    color:grey;
+    position: relative;
+    left:500px;
+    top: 40px;
+    
+}
+.btn1{
+        border-radius: 50px;
+       color: white;
+       background-color: rgba(128,128,128,0.2);
+       font-size: 10px;
+       border:2px solid transparent;
+       position: relative;
+       right: -750px;
+       top: 35px;
+}
+.carty{
+    color: white;
+    position: relative;
+    left: 180px;
+    font-size: 28px;
+}
+.first{
+    color: white;
+    font-size: 80px;
+    padding-left: 15%;
+    position: relative;
+    top: 120px;
+}
+.money{
+    color: grey;
+    position: relative;
+    top: 170px;
+    left: 150px;
+}
+.btn2{
+    border-radius: 50px;
+       background-color: rgb(143, 228, 78);
+       font-size: 30px;
+       border:2px solid transparent;
+      position: relative;
+      top: 180px;
+      left: 150px;
+    
+}
+.round-button
+{
+	border-radius: 50px;
+	
+	background-color: gray;
+	border:none;
+	color: gray;
+	width:fit-content;
+	width: 50px;
+	height: 50px;
+    position: relative;
+    top: 170px;
+    left: 150px;
+}
+.round-button:hover
+{
+  background-color: black;
+}
+.one{
+     font-size: 200px;
+     padding-left: 50px; 
+     color: rgba(128,128,128,0.2);  
+     font-weight: bold;
+}
+.features{
+    color: gray;
+    position: relative;
+    top: -160px;
+    left: 105px;
+}
+.best{
+    font-size: 50px;
+    position: relative;
+    top: -160px;
+    left: 100px;
+}
+.provid{
+    font-size: 50px;
+    position: relative;
+    top: -185px;
+    left: 100px;
+}
+.more{
+    position: relative;
+    left: 100px;
+    top: -150px;
+}
+.btn3{
+    border-radius: 50px;
+       background-color:black;
+       color: white;
+       padding: 1%;
+       font-size: 15px;
+       border:2px solid transparent;
+      position: relative;
+      top: -100px;
+      left: 100px;
+      width: 150px;
+     
+}
+.learn{
+    position: relative;
+    top: -100px;
+    left: 100px;
+
+}
+
+
+
+.protection
+{
+
+   
+    width: 200px;
+    border-radius:20px;
+    background-color:#aaaa;
+    opacity: 0.2;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    margin-bottom: 20px;
+}
+.protection:hover
+{
+    background-color: black;
+    opacity: 1;
+    color: white;
+    width: 210px;
+    height: 250px;
+}
+.wave{
+    height: 100px;
+    width: 200px;
+}
+.pro{
+    padding-top: 10px;
+}
+.shield
+{
+    font-size: 100px;
+}
+.cell-spacing
+{
+    padding-right:30px;
+}
+.two{
+    font-size: 200px;
+     padding-left: 50px; 
+     color: rgba(128,128,128,0.2);  
+     font-weight: bold;
+
+}
+.aboutus{
+    color: gray;
+    position: relative;
+    top: -160px;
+    left: 105px;
+}
+.get{
+    font-size: 50px;
+    position: relative;
+    top: -160px;
+    left: 100px;
+
+}
+.bout{
+    font-size: 50px;
+    position: relative;
+    top: -185px;
+    left: 100px;
+}
+.weare{
+    color: grey;
+    position: relative;
+    top: 190px;
+    left: 150px;
+}
+.from{
+    width: 250px;
+    height: 200px;
+    border-radius:20px;
+    background-color:#aaaa;
+    opacity: 0.2;
+    position: relative;
+    top: -150px;
+    left: 110px;
+}
+.users{
+    position: relative;
+    top: -10px;
+}
+.twofour{
+    
+    font-size: 70px;
+      position: relative;
+      top: 15px;
+    
+}
+.image{
+    background-image: url("hand5.jpg");
+    top: -100px;
+    border-radius: 60px;
+}
+.three{
+    font-size: 200px;
+     padding-left: 50px; 
+     color: rgba(128,128,128,0.2);  
+     font-weight: bold;
+}
+.banking{
+    color: white;
+    font-size: 50px;
+    position: relative;
+    top: -150px;
+    left: 70px;
+}
+.re{
+    position: relative;
+    top: -20px;
+}
+.now{
+    position: relative;
+    top: -40px;
+}
+.btn4{
+    border-radius: 50px;
+       background-color: rgb(143, 228, 78);
+       font-size: 25px;
+       border:2px solid transparent;
+      position: relative;
+      top: -150px;
+      left: 90px;
+    
+}
+.payoneer{
+    font-size: 60px;
+    color: white;
+    top: 30px;
+}
+.zero{
+    font-size: 200px;
+     padding-left: 50px; 
+     color: rgba(128,128,128,0.2);  
+     font-weight: bold;
+
+}
+.partners{
+    color: gray;
+    position: relative;
+    top: -160px;
+    left: 105px;
+}
+.ovo{
+    height: 250px;
+    width: 200px;
+    padding-top: 20px;
+}
+.pay{
+    height: 250px;
+    width: 250px;
+    padding-top: 20px;
+}
+.visa{
+    height: 250px;
+    width: 250px;
+    padding-top: 20px;
+}
+.wise{
+    height: 200px;
+    width: 350px;
+    padding-top: 25px;
+}
+.gpay{
+    height: 200px;
+    width: 350px;
+    padding-top: 25px;
+}
+.stripe{
+    height: 200px;
+    width: 350px;
+    padding-top: 25px;
+}
+.neteller{
+height: 200px;
+    width: 300px;
+    padding-top: 25px;
+}
+.alipay{
+    height: 200px;
+    width: 300px;
+    padding-top: 25px;
+}
+
+.square
+{
+    height: 320px;
+    width: 350px;
+    border-radius:40px;
+    background-color:rgb(170,170,170);
+    opacity: 0.2;
+    position: relative;
+    top:100px;
+    padding: 8% 2% 2% 2%;
+    margin-bottom: 20px;
+}
+.beg{
+    position: relative;
+    top: -220px;
+    padding-left: 120px;
+}
+.video{
+    border-radius: 50px;
+    position: relative;
+    top: -150px;
+}
+.join{
+    background-image: url("design.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 400px;
+    border-radius: 50px 50px 0px 0px;
+}
+.connect{
+    color: white;
+    font-size: 80px;
+    position: relative;
+    top: 80px;
+}
+
+.last{
+    border-radius: 50px;
+       background-color: rgb(143, 228, 78);
+       font-size: 20px;
+       border:2px solid transparent;
+      position: relative;
+      top: 130px;
+      left: 500px;
+      width: 200px;
+    
+}
+.fin{
+    position: relative;
+    top: 30px;
+}
+.term{
+    color: grey;
+    position: relative;
+    top: 400px;
+    left: 80px;
+}
+.ty{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 380px;
+    left: 570px;
+}
+.rights{
+    color: grey;
+    position: relative;
+    top: 375px;
+    left: 530px;
+}
+.privacy{
+    color: grey;
+    position: relative;
+    top: 350px;
+    left: 1050px;
+}
